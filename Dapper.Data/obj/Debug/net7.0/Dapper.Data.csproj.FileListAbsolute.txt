@@ -1,0 +1,45 @@
+D:\Test Projects\Dapper.Data\bin\Debug\net7.0\Dapper.Data.deps.json
+D:\Test Projects\Dapper.Data\bin\Debug\net7.0\Dapper.Data.dll
+D:\Test Projects\Dapper.Data\bin\Debug\net7.0\Dapper.Data.pdb
+D:\Test Projects\Dapper.Data\bin\Debug\net7.0\Dapper.Domain.dll
+D:\Test Projects\Dapper.Data\bin\Debug\net7.0\Dapper.Domain.pdb
+D:\Test Projects\Dapper.Data\obj\Debug\net7.0\Dapper.Data.csproj.AssemblyReference.cache
+D:\Test Projects\Dapper.Data\obj\Debug\net7.0\Dapper.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test Projects\Dapper.Data\obj\Debug\net7.0\Dapper.Data.AssemblyInfoInputs.cache
+D:\Test Projects\Dapper.Data\obj\Debug\net7.0\Dapper.Data.AssemblyInfo.cs
+D:\Test Projects\Dapper.Data\obj\Debug\net7.0\Dapper.Data.csproj.CoreCompileInputs.cache
+D:\Test Projects\Dapper.Data\obj\Debug\net7.0\Dapper.Data.csproj.CopyComplete
+D:\Test Projects\Dapper.Data\obj\Debug\net7.0\Dapper.Data.dll
+D:\Test Projects\Dapper.Data\obj\Debug\net7.0\refint\Dapper.Data.dll
+D:\Test Projects\Dapper.Data\obj\Debug\net7.0\Dapper.Data.pdb
+D:\Test Projects\Dapper.Data\obj\Debug\net7.0\ref\Dapper.Data.dll
+D:\Test Projects\Dapper Project\Dapper.Data\bin\Debug\net7.0\Dapper.Data.deps.json
+D:\Test Projects\Dapper Project\Dapper.Data\bin\Debug\net7.0\Dapper.Data.dll
+D:\Test Projects\Dapper Project\Dapper.Data\bin\Debug\net7.0\Dapper.Data.pdb
+D:\Test Projects\Dapper Project\Dapper.Data\bin\Debug\net7.0\Dapper.Domain.dll
+D:\Test Projects\Dapper Project\Dapper.Data\bin\Debug\net7.0\Dapper.Domain.pdb
+D:\Test Projects\Dapper Project\Dapper.Data\obj\Debug\net7.0\Dapper.Data.csproj.AssemblyReference.cache
+D:\Test Projects\Dapper Project\Dapper.Data\obj\Debug\net7.0\Dapper.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test Projects\Dapper Project\Dapper.Data\obj\Debug\net7.0\Dapper.Data.AssemblyInfoInputs.cache
+D:\Test Projects\Dapper Project\Dapper.Data\obj\Debug\net7.0\Dapper.Data.AssemblyInfo.cs
+D:\Test Projects\Dapper Project\Dapper.Data\obj\Debug\net7.0\Dapper.Data.csproj.CoreCompileInputs.cache
+D:\Test Projects\Dapper Project\Dapper.Data\obj\Debug\net7.0\Dapper.Data.csproj.CopyComplete
+D:\Test Projects\Dapper Project\Dapper.Data\obj\Debug\net7.0\Dapper.Data.dll
+D:\Test Projects\Dapper Project\Dapper.Data\obj\Debug\net7.0\refint\Dapper.Data.dll
+D:\Test Projects\Dapper Project\Dapper.Data\obj\Debug\net7.0\Dapper.Data.pdb
+D:\Test Projects\Dapper Project\Dapper.Data\obj\Debug\net7.0\ref\Dapper.Data.dll
+D:\Test Projects\DapperProject\Dapper.Data\bin\Debug\net7.0\Dapper.Data.deps.json
+D:\Test Projects\DapperProject\Dapper.Data\bin\Debug\net7.0\Dapper.Data.dll
+D:\Test Projects\DapperProject\Dapper.Data\bin\Debug\net7.0\Dapper.Data.pdb
+D:\Test Projects\DapperProject\Dapper.Data\bin\Debug\net7.0\Dapper.Domain.dll
+D:\Test Projects\DapperProject\Dapper.Data\bin\Debug\net7.0\Dapper.Domain.pdb
+D:\Test Projects\DapperProject\Dapper.Data\obj\Debug\net7.0\Dapper.Data.csproj.AssemblyReference.cache
+D:\Test Projects\DapperProject\Dapper.Data\obj\Debug\net7.0\Dapper.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test Projects\DapperProject\Dapper.Data\obj\Debug\net7.0\Dapper.Data.AssemblyInfoInputs.cache
+D:\Test Projects\DapperProject\Dapper.Data\obj\Debug\net7.0\Dapper.Data.AssemblyInfo.cs
+D:\Test Projects\DapperProject\Dapper.Data\obj\Debug\net7.0\Dapper.Data.csproj.CoreCompileInputs.cache
+D:\Test Projects\DapperProject\Dapper.Data\obj\Debug\net7.0\Dapper.Data.csproj.CopyComplete
+D:\Test Projects\DapperProject\Dapper.Data\obj\Debug\net7.0\Dapper.Data.dll
+D:\Test Projects\DapperProject\Dapper.Data\obj\Debug\net7.0\refint\Dapper.Data.dll
+D:\Test Projects\DapperProject\Dapper.Data\obj\Debug\net7.0\Dapper.Data.pdb
+D:\Test Projects\DapperProject\Dapper.Data\obj\Debug\net7.0\ref\Dapper.Data.dll

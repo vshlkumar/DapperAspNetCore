@@ -1,0 +1,51 @@
+D:\Test Projects\Dapper.Services\bin\Debug\net7.0\Dapper.Services.deps.json
+D:\Test Projects\Dapper.Services\bin\Debug\net7.0\Dapper.Services.dll
+D:\Test Projects\Dapper.Services\bin\Debug\net7.0\Dapper.Services.pdb
+D:\Test Projects\Dapper.Services\bin\Debug\net7.0\Dapper.Data.dll
+D:\Test Projects\Dapper.Services\bin\Debug\net7.0\Dapper.Domain.dll
+D:\Test Projects\Dapper.Services\bin\Debug\net7.0\Dapper.Data.pdb
+D:\Test Projects\Dapper.Services\bin\Debug\net7.0\Dapper.Domain.pdb
+D:\Test Projects\Dapper.Services\obj\Debug\net7.0\Dapper.Services.csproj.AssemblyReference.cache
+D:\Test Projects\Dapper.Services\obj\Debug\net7.0\Dapper.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test Projects\Dapper.Services\obj\Debug\net7.0\Dapper.Services.AssemblyInfoInputs.cache
+D:\Test Projects\Dapper.Services\obj\Debug\net7.0\Dapper.Services.AssemblyInfo.cs
+D:\Test Projects\Dapper.Services\obj\Debug\net7.0\Dapper.Services.csproj.CoreCompileInputs.cache
+D:\Test Projects\Dapper.Services\obj\Debug\net7.0\Dapper.Services.csproj.CopyComplete
+D:\Test Projects\Dapper.Services\obj\Debug\net7.0\Dapper.Services.dll
+D:\Test Projects\Dapper.Services\obj\Debug\net7.0\refint\Dapper.Services.dll
+D:\Test Projects\Dapper.Services\obj\Debug\net7.0\Dapper.Services.pdb
+D:\Test Projects\Dapper.Services\obj\Debug\net7.0\ref\Dapper.Services.dll
+D:\Test Projects\Dapper Project\Dapper.Services\bin\Debug\net7.0\Dapper.Services.deps.json
+D:\Test Projects\Dapper Project\Dapper.Services\bin\Debug\net7.0\Dapper.Services.dll
+D:\Test Projects\Dapper Project\Dapper.Services\bin\Debug\net7.0\Dapper.Services.pdb
+D:\Test Projects\Dapper Project\Dapper.Services\bin\Debug\net7.0\Dapper.Data.dll
+D:\Test Projects\Dapper Project\Dapper.Services\bin\Debug\net7.0\Dapper.Domain.dll
+D:\Test Projects\Dapper Project\Dapper.Services\bin\Debug\net7.0\Dapper.Data.pdb
+D:\Test Projects\Dapper Project\Dapper.Services\bin\Debug\net7.0\Dapper.Domain.pdb
+D:\Test Projects\Dapper Project\Dapper.Services\obj\Debug\net7.0\Dapper.Services.csproj.AssemblyReference.cache
+D:\Test Projects\Dapper Project\Dapper.Services\obj\Debug\net7.0\Dapper.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test Projects\Dapper Project\Dapper.Services\obj\Debug\net7.0\Dapper.Services.AssemblyInfoInputs.cache
+D:\Test Projects\Dapper Project\Dapper.Services\obj\Debug\net7.0\Dapper.Services.AssemblyInfo.cs
+D:\Test Projects\Dapper Project\Dapper.Services\obj\Debug\net7.0\Dapper.Services.csproj.CoreCompileInputs.cache
+D:\Test Projects\Dapper Project\Dapper.Services\obj\Debug\net7.0\Dapper.Services.csproj.CopyComplete
+D:\Test Projects\Dapper Project\Dapper.Services\obj\Debug\net7.0\Dapper.Services.dll
+D:\Test Projects\Dapper Project\Dapper.Services\obj\Debug\net7.0\refint\Dapper.Services.dll
+D:\Test Projects\Dapper Project\Dapper.Services\obj\Debug\net7.0\Dapper.Services.pdb
+D:\Test Projects\Dapper Project\Dapper.Services\obj\Debug\net7.0\ref\Dapper.Services.dll
+D:\Test Projects\DapperProject\Dapper.Services\bin\Debug\net7.0\Dapper.Services.deps.json
+D:\Test Projects\DapperProject\Dapper.Services\bin\Debug\net7.0\Dapper.Services.dll
+D:\Test Projects\DapperProject\Dapper.Services\bin\Debug\net7.0\Dapper.Services.pdb
+D:\Test Projects\DapperProject\Dapper.Services\bin\Debug\net7.0\Dapper.Data.dll
+D:\Test Projects\DapperProject\Dapper.Services\bin\Debug\net7.0\Dapper.Domain.dll
+D:\Test Projects\DapperProject\Dapper.Services\bin\Debug\net7.0\Dapper.Data.pdb
+D:\Test Projects\DapperProject\Dapper.Services\bin\Debug\net7.0\Dapper.Domain.pdb
+D:\Test Projects\DapperProject\Dapper.Services\obj\Debug\net7.0\Dapper.Services.csproj.AssemblyReference.cache
+D:\Test Projects\DapperProject\Dapper.Services\obj\Debug\net7.0\Dapper.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test Projects\DapperProject\Dapper.Services\obj\Debug\net7.0\Dapper.Services.AssemblyInfoInputs.cache
+D:\Test Projects\DapperProject\Dapper.Services\obj\Debug\net7.0\Dapper.Services.AssemblyInfo.cs
+D:\Test Projects\DapperProject\Dapper.Services\obj\Debug\net7.0\Dapper.Services.csproj.CoreCompileInputs.cache
+D:\Test Projects\DapperProject\Dapper.Services\obj\Debug\net7.0\Dapper.Services.csproj.CopyComplete
+D:\Test Projects\DapperProject\Dapper.Services\obj\Debug\net7.0\Dapper.Services.dll
+D:\Test Projects\DapperProject\Dapper.Services\obj\Debug\net7.0\refint\Dapper.Services.dll
+D:\Test Projects\DapperProject\Dapper.Services\obj\Debug\net7.0\Dapper.Services.pdb
+D:\Test Projects\DapperProject\Dapper.Services\obj\Debug\net7.0\ref\Dapper.Services.dll

@@ -1,0 +1,219 @@
+D:\Test Projects\Dapper\bin\Debug\net7.0\appsettings.Development.json
+D:\Test Projects\Dapper\bin\Debug\net7.0\appsettings.json
+D:\Test Projects\Dapper\bin\Debug\net7.0\Dapper.API.exe
+D:\Test Projects\Dapper\bin\Debug\net7.0\Dapper.API.deps.json
+D:\Test Projects\Dapper\bin\Debug\net7.0\Dapper.API.runtimeconfig.json
+D:\Test Projects\Dapper\bin\Debug\net7.0\Dapper.API.dll
+D:\Test Projects\Dapper\bin\Debug\net7.0\Dapper.API.pdb
+D:\Test Projects\Dapper\bin\Debug\net7.0\Azure.Core.dll
+D:\Test Projects\Dapper\bin\Debug\net7.0\Azure.Identity.dll
+D:\Test Projects\Dapper\bin\Debug\net7.0\Dapper.dll
+D:\Test Projects\Dapper\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Test Projects\Dapper\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Test Projects\Dapper\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Test Projects\Dapper\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Test Projects\Dapper\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Test Projects\Dapper\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Test Projects\Dapper\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Test Projects\Dapper\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Test Projects\Dapper\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Test Projects\Dapper\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Test Projects\Dapper\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Test Projects\Dapper\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Test Projects\Dapper\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Test Projects\Dapper\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Test Projects\Dapper\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Test Projects\Dapper\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Test Projects\Dapper\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Test Projects\Dapper\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Test Projects\Dapper\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Test Projects\Dapper\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Test Projects\Dapper\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Test Projects\Dapper\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Test Projects\Dapper\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Test Projects\Dapper\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Test Projects\Dapper\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Test Projects\Dapper\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Test Projects\Dapper\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Test Projects\Dapper\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Test Projects\Dapper\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Test Projects\Dapper\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Test Projects\Dapper\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Test Projects\Dapper\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Test Projects\Dapper\bin\Debug\net7.0\Dapper.Data.dll
+D:\Test Projects\Dapper\bin\Debug\net7.0\Dapper.Domain.dll
+D:\Test Projects\Dapper\bin\Debug\net7.0\Dapper.Services.dll
+D:\Test Projects\Dapper\bin\Debug\net7.0\Dapper.Services.pdb
+D:\Test Projects\Dapper\bin\Debug\net7.0\Dapper.Data.pdb
+D:\Test Projects\Dapper\bin\Debug\net7.0\Dapper.Domain.pdb
+D:\Test Projects\Dapper\obj\Debug\net7.0\Dapper.API.csproj.AssemblyReference.cache
+D:\Test Projects\Dapper\obj\Debug\net7.0\Dapper.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test Projects\Dapper\obj\Debug\net7.0\Dapper.API.AssemblyInfoInputs.cache
+D:\Test Projects\Dapper\obj\Debug\net7.0\Dapper.API.AssemblyInfo.cs
+D:\Test Projects\Dapper\obj\Debug\net7.0\Dapper.API.csproj.CoreCompileInputs.cache
+D:\Test Projects\Dapper\obj\Debug\net7.0\Dapper.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Test Projects\Dapper\obj\Debug\net7.0\staticwebassets\msbuild.Dapper.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Test Projects\Dapper\obj\Debug\net7.0\staticwebassets\msbuild.build.Dapper.API.props
+D:\Test Projects\Dapper\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Dapper.API.props
+D:\Test Projects\Dapper\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Dapper.API.props
+D:\Test Projects\Dapper\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Test Projects\Dapper\obj\Debug\net7.0\staticwebassets.build.json
+D:\Test Projects\Dapper\obj\Debug\net7.0\staticwebassets.development.json
+D:\Test Projects\Dapper\obj\Debug\net7.0\scopedcss\bundle\Dapper.API.styles.css
+D:\Test Projects\Dapper\obj\Debug\net7.0\Dapper.API.csproj.CopyComplete
+D:\Test Projects\Dapper\obj\Debug\net7.0\Dapper.API.dll
+D:\Test Projects\Dapper\obj\Debug\net7.0\refint\Dapper.API.dll
+D:\Test Projects\Dapper\obj\Debug\net7.0\Dapper.API.pdb
+D:\Test Projects\Dapper\obj\Debug\net7.0\Dapper.API.genruntimeconfig.cache
+D:\Test Projects\Dapper\obj\Debug\net7.0\ref\Dapper.API.dll
+D:\Test Projects\Dapper\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Test Projects\Dapper\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Test Projects\Dapper\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Test Projects\Dapper\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Test Projects\Dapper\obj\Debug\net7.0\Dapper.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\appsettings.Development.json
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\appsettings.json
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\Dapper.API.exe
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\Dapper.API.deps.json
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\Dapper.API.runtimeconfig.json
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\Dapper.API.dll
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\Dapper.API.pdb
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\Azure.Core.dll
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\Azure.Identity.dll
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\Dapper.dll
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\Dapper.Data.dll
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\Dapper.Domain.dll
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\Dapper.Services.dll
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\Dapper.Services.pdb
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\Dapper.Data.pdb
+D:\Test Projects\Dapper Project\Dapper\bin\Debug\net7.0\Dapper.Domain.pdb
+D:\Test Projects\Dapper Project\Dapper\obj\Debug\net7.0\Dapper.API.csproj.AssemblyReference.cache
+D:\Test Projects\Dapper Project\Dapper\obj\Debug\net7.0\Dapper.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test Projects\Dapper Project\Dapper\obj\Debug\net7.0\Dapper.API.AssemblyInfoInputs.cache
+D:\Test Projects\Dapper Project\Dapper\obj\Debug\net7.0\Dapper.API.AssemblyInfo.cs
+D:\Test Projects\Dapper Project\Dapper\obj\Debug\net7.0\Dapper.API.csproj.CoreCompileInputs.cache
+D:\Test Projects\Dapper Project\Dapper\obj\Debug\net7.0\Dapper.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Test Projects\Dapper Project\Dapper\obj\Debug\net7.0\Dapper.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Test Projects\Dapper Project\Dapper\obj\Debug\net7.0\staticwebassets\msbuild.Dapper.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Test Projects\Dapper Project\Dapper\obj\Debug\net7.0\staticwebassets\msbuild.build.Dapper.API.props
+D:\Test Projects\Dapper Project\Dapper\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Dapper.API.props
+D:\Test Projects\Dapper Project\Dapper\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Dapper.API.props
+D:\Test Projects\Dapper Project\Dapper\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Test Projects\Dapper Project\Dapper\obj\Debug\net7.0\staticwebassets.build.json
+D:\Test Projects\Dapper Project\Dapper\obj\Debug\net7.0\staticwebassets.development.json
+D:\Test Projects\Dapper Project\Dapper\obj\Debug\net7.0\scopedcss\bundle\Dapper.API.styles.css
+D:\Test Projects\Dapper Project\Dapper\obj\Debug\net7.0\Dapper.API.csproj.CopyComplete
+D:\Test Projects\Dapper Project\Dapper\obj\Debug\net7.0\Dapper.API.dll
+D:\Test Projects\Dapper Project\Dapper\obj\Debug\net7.0\refint\Dapper.API.dll
+D:\Test Projects\Dapper Project\Dapper\obj\Debug\net7.0\Dapper.API.pdb
+D:\Test Projects\Dapper Project\Dapper\obj\Debug\net7.0\Dapper.API.genruntimeconfig.cache
+D:\Test Projects\Dapper Project\Dapper\obj\Debug\net7.0\ref\Dapper.API.dll
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\appsettings.Development.json
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\appsettings.json
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\Dapper.API.exe
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\Dapper.API.deps.json
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\Dapper.API.runtimeconfig.json
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\Dapper.API.dll
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\Dapper.API.pdb
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\Azure.Core.dll
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\Azure.Identity.dll
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\Dapper.dll
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\Dapper.Data.dll
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\Dapper.Domain.dll
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\Dapper.Services.dll
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\Dapper.Services.pdb
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\Dapper.Data.pdb
+D:\Test Projects\DapperProject\Dapper\bin\Debug\net7.0\Dapper.Domain.pdb
+D:\Test Projects\DapperProject\Dapper\obj\Debug\net7.0\Dapper.API.csproj.AssemblyReference.cache
+D:\Test Projects\DapperProject\Dapper\obj\Debug\net7.0\Dapper.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test Projects\DapperProject\Dapper\obj\Debug\net7.0\Dapper.API.AssemblyInfoInputs.cache
+D:\Test Projects\DapperProject\Dapper\obj\Debug\net7.0\Dapper.API.AssemblyInfo.cs
+D:\Test Projects\DapperProject\Dapper\obj\Debug\net7.0\Dapper.API.csproj.CoreCompileInputs.cache
+D:\Test Projects\DapperProject\Dapper\obj\Debug\net7.0\Dapper.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Test Projects\DapperProject\Dapper\obj\Debug\net7.0\Dapper.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Test Projects\DapperProject\Dapper\obj\Debug\net7.0\staticwebassets\msbuild.Dapper.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Test Projects\DapperProject\Dapper\obj\Debug\net7.0\staticwebassets\msbuild.build.Dapper.API.props
+D:\Test Projects\DapperProject\Dapper\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Dapper.API.props
+D:\Test Projects\DapperProject\Dapper\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Dapper.API.props
+D:\Test Projects\DapperProject\Dapper\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Test Projects\DapperProject\Dapper\obj\Debug\net7.0\staticwebassets.build.json
+D:\Test Projects\DapperProject\Dapper\obj\Debug\net7.0\staticwebassets.development.json
+D:\Test Projects\DapperProject\Dapper\obj\Debug\net7.0\scopedcss\bundle\Dapper.API.styles.css
+D:\Test Projects\DapperProject\Dapper\obj\Debug\net7.0\Dapper.API.csproj.CopyComplete
+D:\Test Projects\DapperProject\Dapper\obj\Debug\net7.0\Dapper.API.dll
+D:\Test Projects\DapperProject\Dapper\obj\Debug\net7.0\refint\Dapper.API.dll
+D:\Test Projects\DapperProject\Dapper\obj\Debug\net7.0\Dapper.API.pdb
+D:\Test Projects\DapperProject\Dapper\obj\Debug\net7.0\Dapper.API.genruntimeconfig.cache
+D:\Test Projects\DapperProject\Dapper\obj\Debug\net7.0\ref\Dapper.API.dll
